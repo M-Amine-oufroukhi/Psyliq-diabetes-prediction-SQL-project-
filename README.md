@@ -8,15 +8,25 @@ Dataset Description
 The dataset consists of information related to diabetes patients, including:
 
 Patient ID
+
 Gender
+
 Date of Birth (DOB)
+
 Hypertension status
+
 Heart disease status
+
 Smoking history
+
 BMI (Body Mass Index)
+
 HbA1c level
+
 Blood glucose level
+
 Diabetes status
+
 SQL Queries
 The SQL queries provided in this repository cover various aspects of data manipulation, analysis, and optimization. Here's a summary of optimization strategies incorporated into the queries:
 
